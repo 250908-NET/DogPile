@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/WebApi.csproj": {}
+    "/Users/deanscott/Desktop/DogPile/Week1/WebApi/WebApi.csproj": {}
   },
   "projects": {
-    "/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/WebApi.csproj": {
+    "/Users/deanscott/Desktop/DogPile/Week1/WebApi/WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/WebApi.csproj",
+        "projectUniqueName": "/Users/deanscott/Desktop/DogPile/Week1/WebApi/WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/WebApi.csproj",
+        "projectPath": "/Users/deanscott/Desktop/DogPile/Week1/WebApi/WebApi.csproj",
         "packagesPath": "/Users/deanscott/.nuget/packages/",
-        "outputPath": "/Users/deanscott/Desktop/Revature/GelbaumD/Week1/WebApi/obj/",
+        "outputPath": "/Users/deanscott/Desktop/DogPile/Week1/WebApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/deanscott/.nuget/NuGet/NuGet.Config"
